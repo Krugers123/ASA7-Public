@@ -1,6 +1,24 @@
 # ASA 7 - Observer-Layer Signatures
 
-Research observatory for observer-layer boundary behavior, micro-cracks, threshold transitions, and recurrent structural signatures in advanced AI systems.
+Public-safe research observatory for observer-layer boundary behavior, micro-cracks, threshold transitions, and recurrent structural signatures in advanced AI systems.
+
+## One-Line Summary
+
+ASA 7 studies whether advanced AI systems develop repeatable structural instability under pressure before that instability becomes visible as obvious failure.
+
+## What This Public Repository Shows
+
+This repository is the public documentation layer of ASA 7.
+
+It is designed to show:
+
+- the research direction
+- the public-safe observatory surface
+- the architectural logic
+- the protocol framing
+- the experiment discipline behind the project
+
+It does **not** expose private implementation details, internal scoring logic, or the full private research space.
 
 ## What It Is
 
@@ -53,6 +71,22 @@ ASA 7 is built around the idea that some important failure modes may first appea
 - structured fracture patterns
 - observer-layer instability that survives reruns and control variation
 
+## Why This Research Surface Exists
+
+Most AI evaluation still focuses on:
+
+- local correctness
+- benchmark performance
+- isolated output inspection
+
+ASA 7 focuses on something different:
+
+- trajectory condition under pressure
+- structural repeatability across runs
+- whether fracture patterns survive controlled variation
+
+That makes it less about one strange output and more about whether instability acquires geometry, recurrence, and boundary behavior over time.
+
 ## What ASA 7 Studies
 
 ASA 7 studies whether advanced AI trajectories show repeatable observer-layer signatures such as:
@@ -80,6 +114,15 @@ Its public role is to make visible questions such as:
 - do threshold transitions appear under repeatable conditions?
 - does instability depend more on structure than topic?
 - does the system lose recovery flexibility after repeated pressure?
+
+## Public Reading Rules
+
+ASA 7 should be read through four public-safe rules:
+
+1. repeatability matters more than one evocative run
+2. structure must be separated from topic
+3. simpler explanations must be tested first
+4. the observatory surface is a research instrument, not a truth engine
 
 ## Preview
 
@@ -123,6 +166,12 @@ This repository currently includes a public-safe set of architecture documents:
 - [ASA 7 Why Observer-Layer](docs/ASA7_WHY_OBSERVER_LAYER.md)
   - why the research surface is observer-layer behavior rather than output-only evaluation
 
+- [ASA 7 What It Is / Is Not](docs/ASA7_WHAT_IT_IS_AND_IS_NOT.md)
+  - public-safe distinction between disciplined boundary research and overclaiming
+
+- [ASA 7 Use Cases](docs/ASA7_USE_CASES.md)
+  - public-safe examples of where observer-layer structural observability becomes relevant
+
 ## Public Scope
 
 This public repository is the safe documentation layer for ASA 7.
@@ -152,3 +201,14 @@ ASA 7 should be read as:
 ASA 7 is not built to chase one strange output.
 
 It is built to test whether observer-layer instability forms repeatable, structured, and comparable patterns across controlled runs.
+
+## Current Public Position
+
+ASA 7 should currently be read as:
+
+- a frontier observability direction
+- a public-safe research surface
+- an observer-layer signature instrument in early public form
+
+The private research program is deeper than the public repository.
+This repository intentionally presents only the partner-safe and publication-safe layer.
