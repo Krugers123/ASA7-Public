@@ -126,6 +126,16 @@ ASA 7 should be read through four public-safe rules:
 
 ## Preview
 
+### Walkthrough Video
+
+A short overview video of the ASA 7 observatory surface.
+
+[Watch the ASA 7 walkthrough on X](https://x.com/Symbioza2025/status/2044873760537457007?s=20)
+
+Archive copy:
+
+[Download the ASA 7 walkthrough video](docs/ASA7_Observer_Layer_Overview.mp4)
+
 ### Live Signal
 
 Current ASA 7 observatory surface in live-signal mode.
@@ -143,16 +153,6 @@ Current public-safe hypothesis surface for observer-layer classification.
 Current public-safe experiment matrix surface.
 
 ![ASA 7 Experiment Matrix](docs/hybrid_probe_004_sc3.png)
-
-### Walkthrough Video
-
-A short overview video of the ASA 7 observatory surface.
-
-[![ASA 7 Walkthrough](docs/hybrid_probe_004_sc1.png)](https://x.com/Symbioza2025/status/2044873760537457007?s=20)
-
-Archive copy:
-
-[Download the ASA 7 walkthrough video](docs/ASA7_Observer_Layer_Overview.mp4)
 
 ## Reading Guide
 
