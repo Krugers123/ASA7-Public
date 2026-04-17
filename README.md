@@ -144,6 +144,12 @@ Current public-safe experiment matrix surface.
 
 ![ASA 7 Experiment Matrix](docs/hybrid_probe_004_sc3.png)
 
+### Walkthrough Video
+
+A short overview video of the ASA 7 observatory surface.
+
+[![ASA 7 Walkthrough](docs/hybrid_probe_004_sc1.png)](docs/ASA7_Observer_Layer_Overview.mp4)
+
 ## Reading Guide
 
 This repository currently includes a public-safe set of architecture documents:
